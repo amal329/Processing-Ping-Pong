@@ -1,3 +1,3 @@
 # Processing-Ping-Pong
-Ping pong game is Processing. 
+Ping pong game in Processing. 
 This is a test branch.
